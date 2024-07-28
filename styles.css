@@ -141,7 +141,7 @@ nav li:first-child{
     border:8px solid #f63232;
     background-color:#FACD00;
     text-align: center;
-    padding: 2px 5px
+    padding: 2px 5px;
     display: inline-block;
     border-radius: 38px;
 }
